@@ -19,14 +19,23 @@ It is trained on the [Kaggle Phishing Email Dataset](https://www.kaggle.com/data
 
 ---
 
+## 🚀 **Try it instantly on Google Colab**
+> You can open and run the project directly here:  
+👉 [**Open in Google Colab**](https://colab.research.google.com/drive/1r3iuE9WLk1iD0PAQeRa_kx0VpICcWguv?usp=sharing)
+---
+
 ## 🚀 Features
 
 ✅ **Large, Real Dataset** — 82K+ labeled emails for robust model performance  
+
 🧠 **Hybrid Feature Engineering** — Combines:
 - **Text Features:** Word/phrase frequency via `TfidfVectorizer` (1-2 grams)
 - **Statistical Features:** Email length, % of capitals, % of digits  
+
 ⚙️ **Optimized Model:** Uses `GridSearchCV` to fine-tune `LogisticRegression`  
+
 💻 **Command-Line Interface:** Analyze text, files, or pasted emails directly  
+
 📈 **Custom Sensitivity:** Adjust phishing detection threshold
 
 ---
