@@ -133,7 +133,3 @@ This will:
 
 ---
 
-
-<p align="center">
-  <b>⚡ Built with Machine Learning | Securing Digital Communication ⚡</b>
-</p>
